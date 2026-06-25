@@ -1,0 +1,22 @@
+# RaceIQ — Formula 1 Strategy Intelligence Platform
+# Core data processing
+pandas>=2.0.0
+numpy>=1.24.0
+pyarrow>=12.0.0
+
+# Visualization
+plotly>=5.18.0
+kaleido>=0.2.1
+
+# Dashboard
+streamlit>=1.28.0
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.25.0
+nbformat>=5.9.0
+
+# Utilities
+python-dateutil>=2.8.2
+tqdm>=4.65.0
