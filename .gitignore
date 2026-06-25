@@ -53,3 +53,9 @@ logs/
 # Processed data (optional - uncomment if large)
 # data/processed/*.csv
 # data/processed/*.parquet
+
+# Internal scripts and Agent Artifacts
+src/
+task.md
+implementation_plan.md
+walkthrough.md
