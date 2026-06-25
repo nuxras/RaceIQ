@@ -32,7 +32,7 @@ RaceIQ transforms raw F1 race data from the **Ergast F1 API** into a comprehensi
 | Module | Focus | Status |
 |--------|-------|--------|
 | **01** | Driver Performance Analytics | ✅ Complete |
-| **02** | Constructor & Team Analytics | 🔄 Upcoming |
+| **02** | Constructor & Team Analytics | ✅ Complete |
 | **03** | Race Strategy & Pit Stop Analysis | 🔄 Upcoming |
 | **04** | Qualifying & Grid Position Analysis | 🔄 Upcoming |
 | **05** | Championship Trends & Predictions | 🔄 Upcoming |
@@ -113,6 +113,16 @@ jupyter notebook notebooks/01_driver_performance.ipynb
 
 ---
 
+## 🔍 Module 2 — Key Findings
+
+> **Constructor & Team Analytics (2014–2025 Hybrid Era)**
+
+- 🚀 **Momentum Matters:** Teams like McLaren and Aston Martin showed that aggressive mid-season development can drastically alter the competitive landscape, jumping from midfield to front-runners in a single season.
+- ⏱️ **Pit Crew Efficiency Wins Championships:** Red Bull's dominance is mathematically supported by their unmatched pit stop efficiency. Consistently fast pit stops translate directly into track position advantages.
+- 🔥 **Eras of Dominance:** Heatmap and market share analysis clearly visualize the distinct "eras" of F1: Mercedes' hybrid-era dominance followed by Red Bull's ground-effect era mastery. Recognizing these shifts is crucial for team investment strategies.
+
+---
+
 ## 📊 Dashboard Preview
 
 ### Driver Performance Overview
@@ -173,11 +183,6 @@ jupyter notebook notebooks/01_driver_performance.ipynb
 
 ## 🚀 Future Modules
 
-**Module 2 — Constructor Analytics**
-- Team points trajectories and development rates
-- Constructors' championship battle analysis
-- Teammate comparison within the same car
-
 **Module 3 — Race Strategy & Pit Stops**
 - Pit stop timing and duration analysis
 - Undercut/overcut strategy effectiveness
@@ -207,6 +212,6 @@ Built as a professional data analytics portfolio project by **Nugraha**.
 
 **RaceIQ © 2025 | Data: Ergast F1 API | Built with Python & Streamlit**
 
-*Module 1: Driver Performance Analytics ✅ | Module 2: Constructor Analytics 🔄*
+*Module 1: Driver Performance Analytics ✅ | Module 2: Constructor Analytics ✅*
 
 </div>
